@@ -1,26 +1,14 @@
 [
     {
-      "title": "Project A",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Prototype Public Service Mall",
+      "imageSrc": "projects/mpp.png",
+      "skills": ["Laravel", "PHP", "MySQL"],
+      "source": "https://github.com/NicoWijaya0355/portfolio"
     },
     {
-      "title": "Project B",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
-    },
-    {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Rent Car Atma Jaya Univesity",
+      "imageSrc": "projects/rentcar.png",
+      "skills": ["Laravel", "PHP", "MySQL"],
+      "source": "https://github.com/NicoWijaya0355/rent-car.git"
     }
   ]
