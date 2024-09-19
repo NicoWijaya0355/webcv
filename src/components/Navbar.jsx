@@ -9,7 +9,7 @@ export const Navbar =() => {
      <nav className={styles.navbar}>
           <a className={styles.title} href="/">Portfolio</a>
           <div className={styles.menu}>
-               <img 
+               {/* <img 
                className={styles.menuBtn} 
                src={
                     menuOpen 
@@ -18,7 +18,7 @@ export const Navbar =() => {
                } 
                alt="menu-button"
                onClick={() => setMenuOpen(!menuOpen)}
-               />
+               /> */}
                <ul className={`${styles.menuItems} ${menuOpen && styles.menuOpen}`}
                onClick={() => setMenuOpen(false)}>
                     <li>
@@ -32,6 +32,9 @@ export const Navbar =() => {
                     </li>
                     <li>
                          <a href="#contact">Contact</a>
+                    </li>
+                    <li>
+                         <a href="https://drive.google.com/file/d/1hRsUDcemmNYz4bqdje4j2XvLokZpoe_e/view?usp=sharing">CV</a>
                     </li>
                </ul>
           </div>
