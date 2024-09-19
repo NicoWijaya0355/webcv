@@ -36,14 +36,32 @@
   display: flex;
   align-items: center;
   gap: 25px;
+
 }
 
-.link a {
+
+.link img:hover{
+  background-color: #60d6fa;
+  transition: 0.5s;
+}
+
+
+
+.Contact {
   color: var(--color-text);
   text-decoration: none;
   font-size: 30px;
   font-weight: 400;
   letter-spacing: 1.5px;
+  float:left;
+	-webkit-transition: margin 0.3s ease-in-out;
+    -moz-transition: margin 0.3s ease-in-out;
+    -o-transition: margin 0.3s ease-in-out;
+}
+
+.Contact:hover {
+	cursor:pointer;
+    margin-bottom: 10px;
 }
 
 @media screen and (max-width: 830px) {
