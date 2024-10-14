@@ -9,6 +9,12 @@
       "title": "E-Commerce",
       "imageSrc": "projects/ecommerce.JPG",
       "skills": ["Laravel", "PHP", "MySQL"],
-      "source": "https://github.com/NicoWijaya0355/portfolio"
+      "source": "https://github.com/NicoWijaya0355/e-commerce.git"
+    },
+    {
+      "title": "Hotel Management",
+      "imageSrc": "projects/hotel.JPG",
+      "skills": ["Laravel", "PHP", "MySQL"],
+      "source": "https://github.com/NicoWijaya0355/Hotel.git"
     }
   ]
